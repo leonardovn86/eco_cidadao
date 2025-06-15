@@ -1,0 +1,4 @@
+repository "Eco Cidadão - A Missão Urbana 2025-06-13_20-06-29/Eco Cidadão - A Missão Urbana@4674093819813@cloud"
+  path "/"
+    br "/main"
+    co "/main"
